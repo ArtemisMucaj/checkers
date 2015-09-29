@@ -5,7 +5,7 @@
 #define MOVE_MAX 18
 #define COTE 800
 
-#include "SDL2/SDL.h"
+#include "SDL/SDL.h"
 
 typedef struct _case{
   int couleur,pos;
