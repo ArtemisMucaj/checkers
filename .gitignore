@@ -1,0 +1,7 @@
+arbre.o
+dames
+dames.o
+damesio.o
+rafle.o
+remplir_tab.o
+sdl_output.o
