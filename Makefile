@@ -21,4 +21,4 @@ rafle.o: rafle.c rafle.h commun.h arbre.h remplir_tab.h
 
 
 clean:
-	rm -rf *.o
+	rm -rf *.o dames 
